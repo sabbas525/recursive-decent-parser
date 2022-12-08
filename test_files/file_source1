@@ -1,0 +1,9 @@
+if id < 2 then
+    do
+        if y < id then
+            do x <-- id while id
+        else
+            x <-- 3
+    while id 
+else
+    prova <-- 3

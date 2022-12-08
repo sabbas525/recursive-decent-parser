@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test_7" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Compiler" />
+    <module name="Romano-Antonucci_es3_hcp" />
+    <option name="PROGRAM_PARAMETERS" value="test_files/file_source7" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,3 @@
+IF prova > 30 THEN DO prova <-- 1 WHILE prova < 100 ELSE prova <-- 4;
+if prova > 30 then do prova <-- 1 while prova < 100 else prova <-- 4;
+a <-- 5; b <-- 10

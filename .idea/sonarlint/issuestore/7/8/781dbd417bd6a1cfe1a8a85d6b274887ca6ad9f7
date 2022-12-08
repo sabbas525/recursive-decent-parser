@@ -1,0 +1,61 @@
+
+7
+java:S1643 "Use a StringBuilder instead.(¶ØÀ“ùÿÿÿÿ
+7
+java:S1643i"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+7
+java:S1643u"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643µ"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643À"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643Ê"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643Í"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643Ó"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643à"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643ò"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643õ"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643ÿ"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643‚"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643ˆ"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643‘"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+8
+java:S1643°"Use a StringBuilder instead.(ƒÅË•ÿÿÿÿÿ
+t
+java:S1450"YRemove the "fileReader" field and declare it as a local variable in the relevant methods.(åô’†ÿÿÿÿÿ
+o
+java:S1450"TRemove the "input" field and declare it as a local variable in the relevant methods.(ã™ÉÍüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‘×ĞÔüÿÿÿÿ
+@
+java:S1197+"*Move the array designators [] to the type.(ØÙ¼
+i
+java:S3776:"SRefactor this method to reduce its Cognitive Complexity from 111 to the 15 allowed.(Œ¦¹ò
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Úï“¦ùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(’ÉìÎ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(õÉ·…
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(§…Ëÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(õ¼Âúÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(’³—°
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(‚”–´
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+g	java:S128¢"LEnd this switch case with an unconditional break, return or throw statement.(÷ç±ÿûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(›åøšÿÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(„§ñ£
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(şÒÁ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(»‰‚Œ
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(Íâèæ

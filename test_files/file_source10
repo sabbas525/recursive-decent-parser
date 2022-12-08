@@ -1,0 +1,12 @@
+x <-- 2;
+do
+    if x > 10 then
+        y <-- 15
+    else
+        if y < 10 then
+            do
+                x <-- 76
+            while x < 100
+        else
+            x <-- 0
+while x <> 0

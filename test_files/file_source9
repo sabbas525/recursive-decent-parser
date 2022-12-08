@@ -1,0 +1,6 @@
+x <-- 1;
+do
+  if x < y then y <-- x < 10
+  else z <-- 1 < 10 < 20 > 30 <= x
+while 1 < 1;
+prova <-- 100

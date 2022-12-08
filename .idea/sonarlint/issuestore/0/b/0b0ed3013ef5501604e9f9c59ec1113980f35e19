@@ -1,0 +1,61 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(ŞÒÿÑÿÿÿÿÿ
+b	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘÷ÿQ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(âı
+W
+java:S1126/"AReplace this if-then-else statement by a single return statement.(©·£‹
+c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“±éØ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(©¤Š‹
+\
+java:S1126="AReplace this if-then-else statement by a single return statement.(¢½àúÿÿÿÿ
+c	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ×®À
+h
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(æ×®À
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(€‰»Ñıÿÿÿÿ
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(–³”Z
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Æ¸ºóıÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(÷¼¥İüÿÿÿÿ
+\
+java:S1126R"AReplace this if-then-else statement by a single return statement.(À‰™ğıÿÿÿÿ
+h	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï„¸Óÿÿÿÿÿ
+n
+java:S3776Z"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(Ï„¸Óÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ªÀÔº
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(¬„ÅÓ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ØßÈÈûÿÿÿÿ
+W
+java:S1126n"AReplace this if-then-else statement by a single return statement.(é´©³
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ÛùÂõûÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ŒíÀÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜é®½
+X
+java:S1126€"AReplace this if-then-else statement by a single return statement.(é´©³
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(şŠÕíûÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ç¢õÛ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àåµÁüÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(±òüÊ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(³Ï
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ğçŠìÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ßĞ‹şÿÿÿÿ
+]
+java:S1126Ÿ"AReplace this if-then-else statement by a single return statement.(Îø¼Óıÿÿÿÿ
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç€ö‰ÿÿÿÿÿ
+N	java:S106¬"9Replace this use of System.out or System.err by a logger.(øİJ
+]
+java:S1126²"AReplace this if-then-else statement by a single return statement.(ù®ˆüÿÿÿÿ
+i	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘„¥Ùøÿÿÿÿ
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(Â±îù
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(„Û¥ÿÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(„‡²ıÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¦ñ’
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(˜ûÅ‹ûÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(¿çüü
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(­çéåÿÿÿÿÿ
+d	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ığƒ’
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(·Ğóù
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(ÜÜÄ
+d	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…şÕ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(ë’§ãüÿÿÿÿ
+]
+java:S1126ğ"AReplace this if-then-else statement by a single return statement.(ÎÉ–›üÿÿÿÿ

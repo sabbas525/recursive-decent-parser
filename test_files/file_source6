@@ -1,0 +1,6 @@
+do
+    if 2 < id then
+        y <-- 3
+    else
+        y <-- 4
+while id > 2
